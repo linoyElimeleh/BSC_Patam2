@@ -1,14 +1,38 @@
-package test;
+package tests.test8;
 
+
+import java.util.function.Consumer;
+import java.util.function.Function;
 
 public class MyFuture<V> {
-	private V v;
+	V v;
+	Runnable task;
 
+	public synchronized void set(V v) {
+		this.v = v;
+		task.run();
+		notifyAll();
+	}
 
-	// implement set()
+	public V getV() throws InterruptedException {
+		if (v == null) {
+			synchronized (this) {
+				if (v == null) {
+					wait();
+				}
+			}
+		}
+		return v;
+	}
 
-	// implement thenDo()
+	// template <class R>
+	public <R> MyFuture<R> thenDo(Function<V, R> f) {
+		MyFuture<R> fr = new MyFuture<>();
+		task = () -> fr.set(f.apply(v));
+		return fr;
+	}
 
-
-	// implement finallyDo()
+	public void finallyDo(Consumer<V> c) {
+		task = () -> c.accept(v);
+	}
 }

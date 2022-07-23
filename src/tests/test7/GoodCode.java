@@ -31,7 +31,7 @@ public class GoodCode {
                 for (Point b : values) {
                     sum += EucDistance(a, b);
                 }
-                if (min > sum) {s
+                if (min > sum) {
                     min = sum;
                     r = a;
                 }

@@ -1,4 +1,4 @@
-package test;
+package tests.test8;
 
 import java.util.ArrayList;
 import java.util.Random;
