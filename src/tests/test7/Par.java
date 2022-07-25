@@ -18,13 +18,15 @@ public class Par {
 
 
     public <V> Future<V> fold(V[] buffer, BinaryOperator<V> operator) {
-        return es.submit(() -> {
+        Callable<V> callable = () -> {
             V v = buffer[0];
             for (int i = 1; i < buffer.length; i++) {
                 v = operator.apply(v, buffer[i]);
             }
             return v;
-        });
+        };
+
+        return es.submit(callable);
     }
 
     public <V, R> Future<List<R>> map(V[] buffer, Function<V, R> function) {
