@@ -1,0 +1,12 @@
+
+X
+java:S2184+"BCast one of the operands of this division operation to a "double".(ôåÚ
+E
+java:S1197"*Move the array designators [] to the type.(½¨öşÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(´¢Éı
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Ê½‘ñ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(•²Ö„
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÄºÔ×ıÿÿÿÿ
+M	java:S106."9Replace this use of System.out or System.err by a logger.(ÌÌ¢*
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ

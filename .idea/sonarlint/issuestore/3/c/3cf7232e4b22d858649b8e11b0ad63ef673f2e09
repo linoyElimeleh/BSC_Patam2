@@ -1,0 +1,18 @@
+
+@
+java:S1197"*Move the array designators [] to the type.(ºŞ‡Õ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŸÅùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥æ”
+t
+java:S2142$"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(üŸ´Â
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¸çï
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(›óÄöşÿÿÿÿ
+y
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(çÚãËøÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¸çï
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(›óÄöşÿÿÿÿ
+t
+java:S2142<"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>	java:S108<")Either remove or fill this block of code.(ä ¹€
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Ú¿Òüÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ

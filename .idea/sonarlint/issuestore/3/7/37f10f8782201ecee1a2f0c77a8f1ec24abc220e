@@ -1,0 +1,15 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8åÄüø¡0
+>	java:S108")Either remove or fill this block of code.(ä ¹€
+`
+java:S1612">Replace this lambda with method reference 'Integer::parseInt'.(–æÛâøÿÿÿÿ8èÄüø¡0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µë¯ş
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊèÛ8šüÕø¡0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Åüø¡0
+E	java:S108")Either remove or fill this block of code.(ä ¹€8‚Åüø¡0
+`
+java:S1612 ">Replace this lambda with method reference 'Integer::parseInt'.(–æÛâøÿÿÿÿ8ƒÅüø¡0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ğ¶Ğ8ƒÅüø¡0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÊèÛ8ƒÅüø¡0

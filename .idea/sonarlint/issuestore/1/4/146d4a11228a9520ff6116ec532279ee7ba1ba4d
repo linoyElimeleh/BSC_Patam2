@@ -1,0 +1,11 @@
+
+Q
+java:S4973-"<Strings and Boxed types should be compared using "equals()".(¿òët
+P
+java:S1118":Add a private constructor to hide the implicit public one.(°Ûâë
+c	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î Üç
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¶ü³Æ£0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¶ü³Æ£0

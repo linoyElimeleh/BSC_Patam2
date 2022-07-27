@@ -1,0 +1,13 @@
+
+_
+java:S2184"BCast one of the operands of this addition operation to a "double".(Çüì8÷Û¦İ¢0
+@
+java:S1197"*Move the array designators [] to the type.(›¿Ãæ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(õÎÖÛøÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(Êşÿò
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Ê½‘ñ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(•²Ö„
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(¹Â½O
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ÒÒ§¡
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ

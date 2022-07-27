@@ -1,0 +1,13 @@
+
+o
+java:S4144"TUpdate this method so that its implementation is not identical to "call" on line 11.(ÙÔğÅùÿÿÿÿ
+l
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(ÖÓÍÿÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+b
+java:S1612%"@Replace this lambda with method reference 'System.out::println'.(ã¥á¬ùÿÿÿÿ8¾Éÿ 0
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ã¥á¬ùÿÿÿÿ
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(´ÁáÚ8¿Éÿ 0

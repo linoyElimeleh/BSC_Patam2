@@ -1,0 +1,18 @@
+
+M
+java:S2589"7Remove this expression which always evaluates to "true"(»–º¶
+@
+java:S1197"*Move the array designators [] to the type.(¿¯ôñ
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(žå„ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àµ‘ò
+y
+java:S2142$"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ
+C	java:S108$")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¦¤îð
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ

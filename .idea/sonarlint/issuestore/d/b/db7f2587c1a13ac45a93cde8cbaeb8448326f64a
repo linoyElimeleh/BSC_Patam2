@@ -1,0 +1,15 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ííæºøÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢«ï—
+V	java:S125"<This block of commented-out lines of code should be removed.(ªÕªÜüÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¢«ï—
+>	java:S108")Either remove or fill this block of code.(©ã£
+E	java:S108!")Either remove or fill this block of code.(Û­¨8ĞÀÚ«£0
+J
+java:S1068	"/Remove this unused "instancLock" private field.(¾ã³øÿÿÿÿ
+H
+java:S1068
+"-Remove this unused "classLock" private field.(İ‹ˆÖøÿÿÿÿ

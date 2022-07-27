@@ -1,0 +1,13 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÄçÍ²üÿÿÿÿ
+?
+java:S1197"*Move the array designators [] to the type.(¤Üš
+A
+java:S1481"&Remove this unused "c" local variable.(¦‰‚´úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï˜Àıÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>	java:S108")Either remove or fill this block of code.(ä ¹€
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿÜ”ÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ

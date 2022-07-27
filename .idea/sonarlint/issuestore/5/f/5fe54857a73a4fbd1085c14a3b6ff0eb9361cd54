@@ -1,0 +1,8 @@
+
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ßãåŞûÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(ßãåŞûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç”“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òèüáúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í£ÃÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ

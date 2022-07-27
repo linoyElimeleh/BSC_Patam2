@@ -1,0 +1,22 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ  ‘üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÝÓ†úÿÿÿÿ
+X
+java:S1612"=Replace this lambda with method reference 'myint::increment'.(ø£º×üÿÿÿÿ
+X
+java:S1612"=Replace this lambda with method reference 'myint::increment'.(“©Â¿ÿÿÿÿÿ
+S
+java:S1612"=Replace this lambda with method reference 'myint::increment'.(’÷Çý
+X
+java:S1612"=Replace this lambda with method reference 'myint::increment'.(ÅÃØýûÿÿÿÿ
+X
+java:S1612"=Replace this lambda with method reference 'myint::decrement'.(£Ã©øýÿÿÿÿ
+X
+java:S1612"=Replace this lambda with method reference 'myint::decrement'.(üæÊ¦øÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¶´Èæ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(­•Ì
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¢¤½ö
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(áØ¡‚ÿÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(µžÛ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(‰ðç±ûÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(’õ÷üùÿÿÿÿ

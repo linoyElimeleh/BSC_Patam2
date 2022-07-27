@@ -1,0 +1,9 @@
+
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(„Èµîýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÔÄÑ…
+C	java:S108")Either remove or fill this block of code.(„Èµîýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÂ¦Àÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØÌºÄøÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(­—¶úÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ
