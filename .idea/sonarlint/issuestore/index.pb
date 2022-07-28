@@ -62,11 +62,7 @@ O
 <
 projects.iml,9/0/90a00dab8d440b5a2ebfd40731a9154b7cd96943
 R
-"src/tests/test2022/MainTrain1.java,3/7/379e052508c1170c78c8aaac74829dfe81117a1e
-R
 "src/tests/test2022/MainTrain2.java,f/4/f4ad2f40a0844ca66aaba15b5113c62a74572578
-R
-"src/tests/test2022/TaskerList.java,8/8/88590fbea3df42f258ac0e9676831556970e9010
 R
 "src/tests/test3/ThreadCounter.java,5/f/5fbd172caac02861587c7581d2fe701fd5d0b31d
 O
