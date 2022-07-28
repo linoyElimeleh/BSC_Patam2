@@ -46,8 +46,6 @@ M
 H
 src/lessons/t6/Test.java,6/8/68d80fdb578da60c805afdba6f5f94d121ea5c27
 W
-'src/lessons/t7/a/ThreadPoolExample.java,9/2/920ff35d9765a8655a34a1006e2d83fe6aa32a35
-W
 'src/lessons/t7/b/ThreadPoolExample.java,a/c/ac7c38767c1601f71a7fdbdf797b253389a28376
 O
 src/tests/test8/MainTrain2.java,a/b/ab6596ce97b81bc927b8c3ab833ac7c8545c36fc
