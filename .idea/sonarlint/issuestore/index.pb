@@ -25,8 +25,6 @@ M
 src/lessons/t12_13/Point.java,f/9/f9fc9c8c283051efcd5e5df2f0e78f279064d025
 S
 #src/lessons/t9_10/ActiveObject.java,2/c/2c01efd17d683b2ed1c2c947a988a3748c3013c2
-S
-#src/lessons/t9_10/MyThreadPool.java,1/a/1a93b017b43218bc2c493b4304c50a5dab440bde
 O
 src/lessons/t11/MainTrain2.java,7/a/7a2f16a6f98ba965d78059be054e5531b4682128
 L
@@ -41,8 +39,6 @@ L
 src/tests/test7/BadCode.java,b/7/b70c5a4cff5af313fec0976080d06044c8c65b1c
 O
 src/lessons/t9_10/MyFuture.java,d/2/d2144d9db1742b065b6a506d543e3e7e1a5fd1ef
-M
-src/lessons/t9_10/Future.java,0/8/0851c0ab421e3a10d2289d9ba9cf612b222ed76d
 H
 src/lessons/t6/Test.java,6/8/68d80fdb578da60c805afdba6f5f94d121ea5c27
 W
@@ -78,8 +74,6 @@ L
 R
 "src/tests/test6/SingeltonTest.java,e/0/e0c4df76279b7dc0006ac27cf0fe7e316e5b593d
 O
-src/tests/test9/MainTrain1.java,0/1/01b57965898bae26f010e53a13eba3b23deb36a4
-O
 src/tests/test9/MainTrain2.java,a/0/a0428fea2e69eee4906e2d9a53a40ed98bb5b767
 O
 src/tests/test9/MainTrain3.java,5/b/5b98cb8ef81100c57dcd303ccc83039b2943af16
@@ -109,8 +103,6 @@ P
  src/tests/test10/MainTrain1.java,1/c/1c0dac4aacfb38845530b779cb9d7c5712cb0d36
 P
  src/tests/test10/MainTrain3.java,a/7/a725b1ccba579cbd60477bf2126236bf76d025a9
-M
-src/tests/test10/MyTimer.java,c/f/cf7c8be039428200e79cc2fc1ca29489924d6d8c
 N
 src/tests/test9/Stoppable.java,2/b/2b1760c8ae181d7cb770c085c1bf2ea4bff34536
 R

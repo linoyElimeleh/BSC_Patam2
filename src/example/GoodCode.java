@@ -1,4 +1,6 @@
-package test;
+package example;
+
+import test.Point2D;
 
 import java.util.List;
 
@@ -7,6 +9,7 @@ public class GoodCode {
     private static double dist(Point2D a, Point2D b) {
         return (a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y);
     }
+
 
     private static int within(List<Point2D> ps, Point2D center, int r) {
         int count = 0;

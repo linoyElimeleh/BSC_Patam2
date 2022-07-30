@@ -1,4 +1,6 @@
-package test;
+package example;
+
+import test.Stoppable;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
